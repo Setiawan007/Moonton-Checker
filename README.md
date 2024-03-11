@@ -14,7 +14,7 @@ This The Open Source Moonton Mass Checker
 
 - git clone https://github.com/Setiawan007/Moonton-Checker
 
-- cd Moonton-BOT
+- cd Moonton-Checker
 
 - python2 main.py
 
